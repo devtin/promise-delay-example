@@ -20,4 +20,5 @@ async function myFirstAsync () {
     }
 }
 
+process.stdout.write('\033c')
 myFirstAsync()
