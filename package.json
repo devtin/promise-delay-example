@@ -2,6 +2,7 @@
   "name": "promise-delay-example",
   "version": "1.0.0",
   "main": "index.js",
+  "bin": "./index.js",
   "scripts": {
     "start": "node index.js"
   },
