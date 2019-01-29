@@ -19,3 +19,5 @@ async function myFirstAsync () {
         await delay(aThird ? 1000 : 500)
     }
 }
+
+myFirstAsync()
